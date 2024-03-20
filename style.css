@@ -1,0 +1,32 @@
+#navbar{
+    background-color: #000000;
+}
+
+#navbar a{
+    color: white;
+}
+
+#heading-h1{
+    font-size: 70px;
+}
+
+#image-heading{
+    height: 700px;
+    width: 100%;
+
+}
+
+
+
+#paragrapgh{
+    line-height: 36px;
+}
+
+li{
+    font-size: 25px;
+}
+
+footer{
+    color: white;
+    background-color: #666666
+}
